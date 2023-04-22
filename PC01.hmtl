@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Listado de Profesionales</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <h1>Listado de Profesionales</h1>
+  <ul id="profesionales"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
